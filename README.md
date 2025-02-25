@@ -11,9 +11,3 @@ I'm a programmer from **Brazil** (GMT-3, São Paulo timezone) and a proud FIAP g
 ---
 
 Feel free to explore my projects and reach out if you'd like to collaborate or discuss anything tech-related. Let's connect and create something amazing! 🚀
-
-
-
-<!-- duolingo -->
-
-
